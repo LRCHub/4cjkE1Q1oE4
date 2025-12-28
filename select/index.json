@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "Unfold",
+  "base_artist": "Porter Robinson",
+  "createdAt": "2025-12-28T18:38:58.951200Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Dreams unfold",
+      "artist": "Samantha Fox",
+      "has_synced": false,
+      "path": "select/01_Dreams_unfold_Samantha_Fox.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Unfold",
+      "artist": "The xx",
+      "has_synced": true,
+      "path": "select/02_Unfold_The_xx.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Unfold the Sorrow",
+      "artist": "Hypocrisy",
+      "has_synced": false,
+      "path": "select/03_Unfold_the_Sorrow_Hypocrisy.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Unfold",
+      "artist": "Melody's Echo Chamber",
+      "has_synced": true,
+      "path": "select/04_Unfold_Melody's_Echo_Chamber.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Unfold (Live)",
+      "artist": "Porter Robinson",
+      "has_synced": false,
+      "path": "select/05_Unfold_(Live)_Porter_Robinson.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Dreams Unfold",
+      "artist": "Joyner Lucas feat. Lil Tjay",
+      "has_synced": true,
+      "path": "select/06_Dreams_Unfold_Joyner_Lucas_feat._Lil_Tjay.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Dreams Unfold",
+      "artist": "Joyner Lucas",
+      "has_synced": true,
+      "path": "select/07_Dreams_Unfold_Joyner_Lucas.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Unfold",
+      "artist": "Porter Robinson feat. Totally Enormous Extinct Dinosaurs",
+      "has_synced": true,
+      "path": "select/08_Unfold_Porter_Robinson_feat._Totally_Enormous_Extinct_Dinosaurs.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Unfold",
+      "artist": "Porter Robinson & Totally Enormous Extinct Dinosaurs",
+      "has_synced": true,
+      "path": "select/09_Unfold_Porter_Robinson_&_Totally_Enormous_Extinct_Dinosaurs.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Unfold",
+      "artist": "Alina Baraz feat. Galimatias",
+      "has_synced": true,
+      "path": "select/10_Unfold_Alina_Baraz_feat._Galimatias.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Unfold",
+      "artist": "Alina Baraz, Galimatias",
+      "has_synced": true,
+      "path": "select/11_Unfold_Alina_Baraz,_Galimatias.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Unfold You",
+      "artist": "Rostam",
+      "has_synced": true,
+      "path": "select/12_Unfold_You_Rostam.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Unfold (with Totally Enormous Extinct Dinosaurs)",
+      "artist": "Porter Robinson",
+      "has_synced": true,
+      "path": "select/13_Unfold_(with_Totally_Enormous_Extinct_Dinosaurs)_Porter_Robinson.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Unfold",
+      "artist": "Porter Robinson",
+      "has_synced": false,
+      "path": "select/pl_01_Unfold_Porter_Robinson.txt"
+    }
+  ]
+}
